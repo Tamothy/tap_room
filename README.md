@@ -1,12 +1,12 @@
-# Tap Room
+# Taproom
 
-#### An application using Angular framework to build a beer tap room application
+#### An application using Angular framework to build a beer taproom application
 
 #### By Tam Nguyen
 
 ## Description
 
-This is an exercise implementing Angular framework, using TypeScript to create a beer tap room application.
+This is an exercise implementing Angular framework, using TypeScript to create a beer taproom application.
 
 ## Setup/Installation Requirements
 
